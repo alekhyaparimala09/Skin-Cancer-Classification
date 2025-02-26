@@ -17,7 +17,7 @@ This project was designed to run in Google Colab with data stored in Google Driv
 Dataset Structure
 The script expects the following data structure:
 /content/drive/MyDrive/skin_cancer_data/
-'''├── train/
+├── train/
 │   ├── benign/
 │   │   └── [benign images]
 │   └── malignant/
@@ -26,7 +26,7 @@ The script expects the following data structure:
     ├── benign/
     │   └── [benign images]
     └── malignant/
-        └── [malignant images]'''
+        └── [malignant images]
 ## Usage Instructions
 1.	Mount your Google Drive in Colab: 
 from google.colab import drive
@@ -64,4 +64,6 @@ For each model, the script generates:
 •	All models are initialized with ImageNet weights
 •	Base models are frozen (feature extraction approach)
 •	Early stopping monitors validation loss with patience=3
+![image](https://github.com/user-attachments/assets/c62b0840-eb5f-45a4-8853-227bcace2c37)
+
 
