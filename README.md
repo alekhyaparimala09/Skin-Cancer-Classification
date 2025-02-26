@@ -17,7 +17,7 @@ This project was designed to run in Google Colab with data stored in Google Driv
 Dataset Structure
 The script expects the following data structure:
 /content/drive/MyDrive/skin_cancer_data/
-├── train/
+'''├── train/
 │   ├── benign/
 │   │   └── [benign images]
 │   └── malignant/
