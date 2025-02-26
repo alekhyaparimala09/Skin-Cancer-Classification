@@ -50,7 +50,8 @@ For each model, the script generates:
 •	Visual examples of predictions on test images
 ## Performance Results
 •	ResNet50: 87% accuracy
-ResNet50_sample_predictions
+
+![image](https://github.com/user-attachments/assets/7b43c419-4f89-4c60-89f5-896bc306ad07)
 
 •	EfficientNetB0: 85% accuracy
 •	VGG16: 84% accuracy
