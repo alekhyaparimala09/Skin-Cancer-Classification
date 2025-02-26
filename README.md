@@ -26,7 +26,7 @@ The script expects the following data structure:
     ├── benign/
     │   └── [benign images]
     └── malignant/
-        └── [malignant images]
+        └── [malignant images]'''
 ## Usage Instructions
 1.	Mount your Google Drive in Colab: 
 from google.colab import drive
