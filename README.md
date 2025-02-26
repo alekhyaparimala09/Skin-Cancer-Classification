@@ -15,9 +15,11 @@ Features
 ## Google Colab Setup
 This project was designed to run in Google Colab with data stored in Google Drive.
 Dataset Structure
-The script expects the following data structure:
+## The script expects the following data structure:
 /content/drive/MyDrive/skin_cancer_data/
+
 ![image](https://github.com/user-attachments/assets/c62b0840-eb5f-45a4-8853-227bcace2c37)
+
 ## Usage Instructions
 1.	Mount your Google Drive in Colab: 
 from google.colab import drive
