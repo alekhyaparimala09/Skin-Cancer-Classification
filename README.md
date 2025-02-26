@@ -2,11 +2,15 @@
 ## Overview
 This project utilizes transfer learning with multiple pre-trained CNN architectures to classify skin lesion images as benign or malignant. The script compares the performance of InceptionV3, ResNet50, VGG16, and EfficientNetB0 models on a skin cancer dataset.
 Features
-•	Implementation of four pre-trained models (InceptionV3, ResNet50, VGG16, EfficientNetB0)
-•	Data augmentation for training images
-•	Automatic validation split for model evaluation
-•	Comprehensive model performance metrics and visualizations
-•	Early stopping to prevent overfitting
+Implementation of four pre-trained models (InceptionV3, ResNet50, VGG16, EfficientNetB0)
+
+Data augmentation for training images
+
+Automatic validation split for model evaluation
+
+Comprehensive model performance metrics and visualizations
+
+Early stopping to prevent overfitting
 ## Requirements
 •	TensorFlow 2.x
 •	NumPy
